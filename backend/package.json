@@ -1,0 +1,16 @@
+{
+  "name": "sanskriti-backend",
+  "version": "1.0.0",
+  "description": "the backend for the ecommerce sanskriti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend",
+    "sanskriti"
+  ],
+  "author": "yush",
+  "license": "ISC"
+}
